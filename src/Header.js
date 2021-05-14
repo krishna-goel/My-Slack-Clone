@@ -12,6 +12,7 @@ function Header() {
                 <Avatar
                     className="header_avatar"
                     alt="hello"
+                    
                     src=""
                 />
                 {/* Avatars for logged in user */}
